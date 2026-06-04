@@ -3,5 +3,5 @@ export const dynamic = "force-dynamic";
 import { LoginForm } from "@/components/ui/LoginForm";
 
 export default function LoginPage() {
-  return <LoginForm appName="Sazón" />;
+  return <LoginForm appName="Sazon" />;
 }
